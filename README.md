@@ -1,0 +1,5 @@
+- 👋 Hi, I’m ruhtik
+- 👀 I’m interested in data science and front end
+- 🌱 I’m currently learning java script and much more about about data science
+- 💞️ I’m looking to collaborate on google
+- 📫 How to reach me ruthikvenkat_pavanagundla@srmap.edu.in
